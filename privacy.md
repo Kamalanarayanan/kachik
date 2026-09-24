@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Privacy Policy"
+permalink: /privacy
+---
+
 # Kachik Privacy Policy
 
 **Last updated: September 2026**
