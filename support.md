@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Support"
+permalink: /support
+---
+
 # Kachik Support
 
 Kachik is a camera app that lets you build your own look and reuse it, with colour palettes drawn from places across India, year-inspired styles, optional visual accidents, and a private roll. This page is here to help you get the most out of it and to reach us if something is wrong.
